@@ -1,0 +1,166 @@
+.threads-logo-icon2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.quotverse2 {
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.logo2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-bottom: 1px solid var(--border-color);
+  box-sizing: border-box;
+  width: 401px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-xs);
+  gap: var(--gap-9xs);
+}
+.hamburger-icon2 {
+  position: relative;
+  width: 18px;
+  height: 8px;
+}
+.righ-infos2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.avatar2 {
+  position: absolute;
+  top: 0px;
+  left: 1040px;
+  border-bottom: 1px solid var(--border-color);
+  box-sizing: border-box;
+  width: 400px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-xs);
+}
+.home-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.nav1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.nav-container {
+  align-self: stretch;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-xs);
+}
+.keyboard-backspace-icon {
+  position: relative;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.topic {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 2px;
+  line-height: 19px;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.span {
+  font-weight: 500;
+}
+.wisdom1 {
+  font-weight: 800;
+}
+.wisdom {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 19px;
+  color: var(--text-color);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.topic-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.keyboard-backspace-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xs);
+  gap: var(--gap-3xs);
+}
+.feed4 {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 320px);
+  border-right: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  border-left: 1px solid var(--border-color);
+  box-sizing: border-box;
+  width: 640px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 10px;
+  color: var(--text-color-alt);
+  font-family: var(--font-inter);
+}
+.feed3 {
+  position: relative;
+  background-color: var(--background-color);
+  width: 1440px;
+  height: 792px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.quotes-list-home1 {
+  border-radius: var(--br-base);
+  height: 792px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--text-color);
+  font-family: var(--font-roboto);
+}

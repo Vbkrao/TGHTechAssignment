@@ -1,0 +1,78 @@
+.threads-logo-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.quotverse1 {
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.logo1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-bottom: 1px solid var(--border-color);
+  box-sizing: border-box;
+  width: 401px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-xs);
+  gap: var(--gap-9xs);
+}
+.hamburger-icon1 {
+  position: relative;
+  width: 18px;
+  height: 8px;
+}
+.righ-infos1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.avatar1 {
+  position: absolute;
+  top: 0px;
+  left: 1040px;
+  border-bottom: 1px solid var(--border-color);
+  box-sizing: border-box;
+  width: 400px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-xs);
+}
+.feed2 {
+  position: relative;
+  background-color: var(--background-color);
+  width: 1440px;
+  height: 792px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.quote-page {
+  position: relative;
+  border-radius: var(--br-base);
+  width: 100%;
+  height: 792px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--text-color);
+  font-family: var(--font-roboto);
+}
